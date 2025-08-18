@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj_6\bin\Debug\net9.0\proj_6.exe
+C:\Users\Admin\Desktop\C#\proj_6\bin\Debug\net9.0\proj_6.deps.json
+C:\Users\Admin\Desktop\C#\proj_6\bin\Debug\net9.0\proj_6.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj_6\bin\Debug\net9.0\proj_6.dll
+C:\Users\Admin\Desktop\C#\proj_6\bin\Debug\net9.0\proj_6.pdb
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.dll
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\refint\proj_6.dll
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.pdb
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\proj_6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj_6\obj\Debug\net9.0\ref\proj_6.dll

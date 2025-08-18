@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\proj_8\bin\Debug\net9.0\proj_8.exe
+C:\Users\Admin\Desktop\C#\proj_8\bin\Debug\net9.0\proj_8.deps.json
+C:\Users\Admin\Desktop\C#\proj_8\bin\Debug\net9.0\proj_8.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj_8\bin\Debug\net9.0\proj_8.dll
+C:\Users\Admin\Desktop\C#\proj_8\bin\Debug\net9.0\proj_8.pdb
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.dll
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\refint\proj_8.dll
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.pdb
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\proj_8.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj_8\obj\Debug\net9.0\ref\proj_8.dll
