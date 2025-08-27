@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\proj_13\bin\Debug\net9.0\proj_13.exe
+C:\Users\Admin\Desktop\C#\proj_13\bin\Debug\net9.0\proj_13.deps.json
+C:\Users\Admin\Desktop\C#\proj_13\bin\Debug\net9.0\proj_13.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj_13\bin\Debug\net9.0\proj_13.dll
+C:\Users\Admin\Desktop\C#\proj_13\bin\Debug\net9.0\proj_13.pdb
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.sourcelink.json
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.dll
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\refint\proj_13.dll
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.pdb
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\proj_13.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj_13\obj\Debug\net9.0\ref\proj_13.dll
