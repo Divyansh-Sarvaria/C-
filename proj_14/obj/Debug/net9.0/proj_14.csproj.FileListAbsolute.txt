@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\proj_14\bin\Debug\net9.0\proj_14.exe
+C:\Users\Admin\Desktop\C#\proj_14\bin\Debug\net9.0\proj_14.deps.json
+C:\Users\Admin\Desktop\C#\proj_14\bin\Debug\net9.0\proj_14.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj_14\bin\Debug\net9.0\proj_14.dll
+C:\Users\Admin\Desktop\C#\proj_14\bin\Debug\net9.0\proj_14.pdb
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.sourcelink.json
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.dll
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\refint\proj_14.dll
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.pdb
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\proj_14.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj_14\obj\Debug\net9.0\ref\proj_14.dll

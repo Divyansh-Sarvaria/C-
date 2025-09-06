@@ -1,0 +1,13 @@
+/* Minimal clean CSS for MyFirstApp */
+
+/* Reset default margin & padding */
+body[b-sjr9jzituj] {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Basic container styling */
+main[b-sjr9jzituj] {
+  padding: 20px;
+}
