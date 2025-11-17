@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\proj20\bin\Debug\net9.0\proj20.exe
+C:\Users\Admin\Desktop\C#\proj20\bin\Debug\net9.0\proj20.deps.json
+C:\Users\Admin\Desktop\C#\proj20\bin\Debug\net9.0\proj20.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj20\bin\Debug\net9.0\proj20.dll
+C:\Users\Admin\Desktop\C#\proj20\bin\Debug\net9.0\proj20.pdb
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.sourcelink.json
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.dll
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\refint\proj20.dll
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.pdb
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\proj20.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj20\obj\Debug\net9.0\ref\proj20.dll

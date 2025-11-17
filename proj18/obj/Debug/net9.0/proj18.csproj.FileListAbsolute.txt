@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.sourcelink.json
+C:\Users\Admin\Desktop\C#\proj18\bin\Debug\net9.0\proj18.exe
+C:\Users\Admin\Desktop\C#\proj18\bin\Debug\net9.0\proj18.deps.json
+C:\Users\Admin\Desktop\C#\proj18\bin\Debug\net9.0\proj18.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj18\bin\Debug\net9.0\proj18.dll
+C:\Users\Admin\Desktop\C#\proj18\bin\Debug\net9.0\proj18.pdb
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.dll
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\refint\proj18.dll
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.pdb
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\proj18.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj18\obj\Debug\net9.0\ref\proj18.dll

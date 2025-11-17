@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\proj21\bin\Debug\net9.0\proj21.exe
+C:\Users\Admin\Desktop\C#\proj21\bin\Debug\net9.0\proj21.deps.json
+C:\Users\Admin\Desktop\C#\proj21\bin\Debug\net9.0\proj21.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj21\bin\Debug\net9.0\proj21.dll
+C:\Users\Admin\Desktop\C#\proj21\bin\Debug\net9.0\proj21.pdb
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.sourcelink.json
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.dll
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\refint\proj21.dll
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.pdb
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\proj21.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj21\obj\Debug\net9.0\ref\proj21.dll

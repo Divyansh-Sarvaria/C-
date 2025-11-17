@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\proj19\bin\Debug\net9.0\proj19.exe
+C:\Users\Admin\Desktop\C#\proj19\bin\Debug\net9.0\proj19.deps.json
+C:\Users\Admin\Desktop\C#\proj19\bin\Debug\net9.0\proj19.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\proj19\bin\Debug\net9.0\proj19.dll
+C:\Users\Admin\Desktop\C#\proj19\bin\Debug\net9.0\proj19.pdb
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.sourcelink.json
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.dll
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\refint\proj19.dll
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.pdb
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\proj19.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\proj19\obj\Debug\net9.0\ref\proj19.dll
